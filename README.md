@@ -1,6 +1,6 @@
 ### Hi there 👋, i am Zero Hoffman
 #### I am Middle Front-End Developer On RAGE MP
-![I am Middle Front-End Developer On RAGE MP](https://media.discordapp.net/attachments/984018434058764288/1337458013518299188/5.gif?ex=68261457&is=6824c2d7&hm=c533cad842b8c7fb5da1a00222860c03047c880ceb1db91395e65ed21b6113c5&=)
+![I am Middle Front-End Developer On RAGE MP](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyazYwMDgxdjI3aTg1OGttMXVvZThlZDU0bXAybjB3NmgyMzd0Z2FqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nzCDqg3pNqg7K/giphy.gif)
 
 In the future I will learn Alt:V and React
 
